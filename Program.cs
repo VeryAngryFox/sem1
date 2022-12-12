@@ -1,12 +1,17 @@
-﻿// Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
-//5 -> 2, 4
-//8 -> 2, 4, 6, 8
+﻿//Напишите программу, которая на вход принимает число и выдает, является ли число четным (делится ли оно на два без остатка).
+//4 -> да
+//-3 -> нет
+//7 -> нет
 
-Console.WriteLine("Ведите число");
-int num;
-num = Convert.ToInt32(Console.ReadLine());
-for (int i = 0; i < num; i += 2)
+int number;
+Console.WriteLine("введите число:");
+number = Convert.ToInt32(Console.ReadLine());
+if (number % 2 == 0)
 {
-    Console.WriteLine(i);
+   Console.WriteLine("четное число"); 
+}
+else
+{
+    Console.WriteLine("нечетное число");
 }
 Console.ReadKey();
