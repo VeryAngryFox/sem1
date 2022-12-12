@@ -1,0 +1,15 @@
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.csproj.AssemblyReference.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.AssemblyInfoInputs.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.AssemblyInfo.cs
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.csproj.CoreCompileInputs.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\bin\Debug\net6.0\task8.exe
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\bin\Debug\net6.0\task8.deps.json
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\bin\Debug\net6.0\task8.runtimeconfig.json
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\bin\Debug\net6.0\task8.dll
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\bin\Debug\net6.0\task8.pdb
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.dll
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\refint\task8.dll
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.pdb
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\task8.genruntimeconfig.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\home tasks\task8\obj\Debug\net6.0\ref\task8.dll
